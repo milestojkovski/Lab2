@@ -9,4 +9,4 @@ Users can post and reply.
 
 You can chose between English and Macedonian language
 
-.sql file creates database named forum2 and it is ready to use
+.sql  file creates database named forum2 and it is ready to use
